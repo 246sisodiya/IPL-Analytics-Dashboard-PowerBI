@@ -196,17 +196,17 @@ Through this project, I gained hands-on experience in:
 
 ##  Project Highlights
 
-✔ End-to-End Data Analytics Project
+ End-to-End Data Analytics Project
 
-✔ Interactive Power BI Dashboard
+ Interactive Power BI Dashboard
 
-✔ Dynamic DAX Measures
+ Dynamic DAX Measures
 
-✔ Team & Player Performance Analytics
+ Team & Player Performance Analytics
 
-✔ Season-Wise Trend Analysis
+ Season-Wise Trend Analysis
 
-✔ Business Intelligence Reporting
+ Business Intelligence Reporting
 
-✔ Real-World Sports Analytics Use Case
+ Real-World Sports Analytics Use Case
 
