@@ -90,6 +90,14 @@ Users can dynamically filter players and seasons for detailed performance evalua
 
 ---
 
+##  Data Source
+
+The dataset used in this project was obtained from Kaggle and contains historical IPL match, player, team, venue, and season-wise information.
+
+Data Source: Kaggle IPL Dataset
+
+The raw data was further cleaned, transformed, and modeled using Power Query and Power BI before creating the final dashboard.
+
 ##  Key Analytical Features
 
 ### Dynamic Filtering
