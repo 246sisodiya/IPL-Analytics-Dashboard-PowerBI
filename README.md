@@ -134,7 +134,7 @@ Custom DAX calculations were used to derive:
 
 ---
 
-## 🔍 Business Insights Generated
+##  Business Insights Generated
 
 This dashboard helps answer important analytical questions such as:
 
